@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p1>(CHR)<br></p1>
+<button onclick="document.getElementById('demo').innerHTML=Date()">The time is?</button>
+
+<p id="demo"></p>
+
+</body>
+</html>
